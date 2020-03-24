@@ -1,0 +1,6 @@
+# Node_modules folder not upload to git
+node_modules/
+
+# All the files with .env extension not upload to git
+
+*.env 
